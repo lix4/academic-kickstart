@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Incoming CS Ph.D. Student
+role: Rising CS Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -43,16 +43,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: 'mailto:xiwenli@wustl.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=C1u7b-wAAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
   link: https://github.com/lix4
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/xiwen-li-17872ba5/
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Xiwen Li is a incoming Ph.D. candidate.
+Xiwen Li is a rising CS Ph.D. candidate.

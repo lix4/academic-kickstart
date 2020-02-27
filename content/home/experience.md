@@ -24,21 +24,21 @@ date_format = "Jan 2006"
   location = "Bloomington, IN"
   date_start = "2019-05-20"
   date_end = "2020-01-01"
-  description = """
-  Responsibilities include:
+  description = """Under Supervision of Dr. David Crandall
+  <!-- #Responsibilities include:
   
   * Analysing
   * Modelling
-  * Deploying
+  * Deploying -->
   """
 
-#[[experience]]
-#  title = "Professor"
-#  company = "University X"
-#  company_url = ""
-#  location = "California"
-#  date_start = "2016-01-01"
-#  date_end = "2016-12-31"
-#  description = """Taught electronic engineering and researched semiconductor physics."""
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Rose-Hulman Institute of Technology"
+  company_url = ""
+  location = "Terre Haute, IN"
+  date_start = "2017-08-31"
+  date_end = "2017-12-01"
+  description = """Teaching Assistant of CSSE280 Introduction to Web Programming"""
 
 +++
