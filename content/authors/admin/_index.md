@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Rising CS Ph.D. Student
+role: Incoming CS Ph.D. Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,9 @@ organizations:
 bio: My research interests include computer vision and machine learning.
 
 interests:
+- Robot Learning
 - Computer Vision
-- Machine Learning
+- Deep Learning
 
 education:
   courses:
@@ -75,4 +76,4 @@ user_groups:
 - Visitors
 ---
 
-Xiwen Li is a rising CS Ph.D. candidate.
+Xiwen Li is an incoming CS Ph.D. candidate.
