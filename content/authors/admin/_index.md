@@ -55,7 +55,7 @@ social:
   link: https://www.linkedin.com/in/xiwen-li-17872ba5/
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf/
+  link: files/cv.pdf
 - icon: weixin
   icon_pack: fab
   link: imgs/WechatQR.jpeg
